@@ -1,1 +1,1 @@
-# AMM_WashTrading_Detection
+# AMM_Wash_Trading_Samples
